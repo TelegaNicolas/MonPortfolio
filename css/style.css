@@ -535,8 +535,3 @@ section {
 	opacity : 0.3;
 }
 
-@media screen and (max-width:680px){
-	.header{
-		height:50vh;
-	}
-}
